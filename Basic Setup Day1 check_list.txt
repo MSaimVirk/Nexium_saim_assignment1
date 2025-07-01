@@ -1,0 +1,40 @@
+1. GitHub repo: Create a new public repo named Nexium_<yourname>_TaskName (e.g. Nexium_Abdullah_Assign1).
+
+✅ https://github.com/MSaimVirk/Nexium_saim_assignment1.git
+
+2. Node.js: Install Node LTS ≥ 20 & pnpm. (corepack enable && corepack prepare pnpm@latest --activate)
+
+✅ Node.js v22.11.0
+✅ pnpm 10.12.4
+
+3. Editor: Use VS Code with ESLint, Prettier, Tailwind CSS IntelliSense, Prisma, GitHub Copilot (optional).
+
+✅ ESLint
+✅ Prettier
+✅ Tailwind CSS IntelliSense
+✅ Prisma
+✅ GitHub Copilot
+
+4. DB access: Sign up for Supabase (Postgres) & MongoDB Atlas. Create nexium-pg and nexium-mongo.
+
+✅ https://supabase.com/dashboard/project/sojcyiyylvympnhjhmbc
+✅ https://cloud.mongodb.com/v2/686360589b7f3e51835f5304#/clusters
+
+5. Hosting: Create a Vercel account using GitHub login.
+
+✅ https://vercel.com/new?teamSlug=muhammad-saim-virks-projects
+
+6. Automation: Create a free n8n.cloud account or install n8n locally with Docker.
+
+✅ installed n8n with docker
+
+7. Misc: Install global CLI tools: vercel, prisma, supabase, mongo.
+
+✅ Vercel CLI 44.2.7
+✅ prisma 6.10.1
+✅ supabase 2.30.4
+✅ mongod --version   :   db version v8.0.11
+
+8. Add a .env.example file with placeholders for secrets.
+
+✅ done
